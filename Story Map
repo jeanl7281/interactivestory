@@ -1,134 +1,164 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T15:22:27.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GBj5f78gHfrBD9CdotS7" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T15:22:17.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XtNhSHwYCOLm8IFgGWB1" version="20.8.15" type="github">
   <diagram name="Page-1" id="m0NJhGn0wFosoTWuqrtW">
-    <mxGraphModel dx="772" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DHhHGyecUbA4hy8YTnLI-1" value="You ask your mom if you could go." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHhHGyecUbA4hy8YTnLI-1" target="OF28jcQQUXVFAPz5S86i-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DHhHGyecUbA4hy8YTnLI-2" target="OF28jcQQUXVFAPz5S86i-33">
+        <mxCell id="DHhHGyecUbA4hy8YTnLI-1" value="You ask your mom if you could go." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHhHGyecUbA4hy8YTnLI-2" target="OF28jcQQUXVFAPz5S86i-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHhHGyecUbA4hy8YTnLI-2" value="You go without asking your parents while they are sleeping." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-1" value="You get an invite to a sleepover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="OF28jcQQUXVFAPz5S86i-1" value="You get an invite to a sleepover" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.628;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-2" target="DHhHGyecUbA4hy8YTnLI-1">
+        <mxCell id="OF28jcQQUXVFAPz5S86i-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-2" target="DHhHGyecUbA4hy8YTnLI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-2" target="DHhHGyecUbA4hy8YTnLI-2">
+        <mxCell id="OF28jcQQUXVFAPz5S86i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-2" target="DHhHGyecUbA4hy8YTnLI-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="370" as="targetPoint" />
+            <mxPoint x="700" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-2" value="Do you ask your parents if you can go?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="260" width="140" height="80" as="geometry" />
+        <mxCell id="OF28jcQQUXVFAPz5S86i-2" value="Do you ask your parents if you can go?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="340" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-3" value="Go hide behind the sofa.&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.5" y="100" as="sourcePoint" />
-            <mxPoint x="419.5" y="160" as="targetPoint" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-20" target="2pD1o5CqtWCCzNHROZgY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="740" as="targetPoint" />
+            <mxPoint x="625" y="740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-6" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="340" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-8" value="You get water for mom." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-10" value="Mom asks you to get some water for her" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-11" value="You say no." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DHhHGyecUbA4hy8YTnLI-1" target="OF28jcQQUXVFAPz5S86i-10">
+        <mxCell id="OF28jcQQUXVFAPz5S86i-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="939.58" y="440" as="sourcePoint" />
-            <mxPoint x="939.58" y="500" as="targetPoint" />
+            <mxPoint x="624.5" y="220" as="sourcePoint" />
+            <mxPoint x="625" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-6" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-8" target="OF28jcQQUXVFAPz5S86i-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-8" value="You get water for mom." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-10" target="OF28jcQQUXVFAPz5S86i-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-10" target="OF28jcQQUXVFAPz5S86i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-10" value="Mom asks you to get some water for her" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-11" target="OF28jcQQUXVFAPz5S86i-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-11" value="You say no." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="885" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-15" target="OF28jcQQUXVFAPz5S86i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-15" value="Mom gets mad so you can&#39;t go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="895" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-17" target="2pD1o5CqtWCCzNHROZgY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-17" value="Mom is in a good mood. She lets you go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-19" target="OF28jcQQUXVFAPz5S86i-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-19" edge="1" target="OF28jcQQUXVFAPz5S86i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-19" value="Do you want to go?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="250" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-21" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="745" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-29" value="You don&#39;t go and you lose a lot of friends." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-32" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="455" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-44" target="2pD1o5CqtWCCzNHROZgY-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="590" as="sourcePoint" />
+            <mxPoint x="815" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-44" target="2pD1o5CqtWCCzNHROZgY-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="590" as="sourcePoint" />
+            <mxPoint x="615" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-34" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-21" target="2pD1o5CqtWCCzNHROZgY-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="740" as="targetPoint" />
+            <mxPoint x="825" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OF28jcQQUXVFAPz5S86i-44" value="Dad goes to kitchen to get water and is about to spot you." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-7" target="OF28jcQQUXVFAPz5S86i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-7" value="Dad sees you and you can&#39;t go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-13" target="2pD1o5CqtWCCzNHROZgY-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="470" />
+              <mxPoint x="625" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OF28jcQQUXVFAPz5S86i-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="560" as="sourcePoint" />
-            <mxPoint x="910" y="610" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-13" value="Dad gets water, goes back to his room, and you sneak out." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="560" as="sourcePoint" />
-            <mxPoint x="1000" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-20" value="Go hide behind the sofa.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-15" value="Mom gets mad so you can&#39;t go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-21" value="Go under the table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="680" as="sourcePoint" />
-            <mxPoint x="880" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-17" value="Mom is in a good mood. She lets you go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OF28jcQQUXVFAPz5S86i-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1039.58" y="680" as="sourcePoint" />
-            <mxPoint x="1039.58" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-19" target="OF28jcQQUXVFAPz5S86i-29">
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="910" as="targetPoint" />
+            <mxPoint x="1255" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-25" value="You go to the sleepover." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-19" value="Do you want to go?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-21" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-29" value="You don&#39;t go and you lose a lot of friends." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-32" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-33" target="OF28jcQQUXVFAPz5S86i-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-33" target="OF28jcQQUXVFAPz5S86i-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-33" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-34" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="330" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-41" value="Go under the table" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="620" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-44" value="Dad goes to kitchen to get water and is about to spot you." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-30" value="You get make new friends and become very popular in school." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
