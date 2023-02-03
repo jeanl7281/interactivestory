@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T01:23:55.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bPbrD_Y8YumTZbJp53Jk" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T02:24:01.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ochwwMS0uABnb2ZssZA4" version="20.8.16" type="github">
   <diagram name="Page-1" id="m0NJhGn0wFosoTWuqrtW">
-    <mxGraphModel dx="1909" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,9 +17,6 @@
         </mxCell>
         <mxCell id="DHhHGyecUbA4hy8YTnLI-2" value="You go without asking your parents while they are sleeping." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-1" value="You get an invite to a sleepover" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-2" target="DHhHGyecUbA4hy8YTnLI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,29 +56,34 @@
         <mxCell id="OF28jcQQUXVFAPz5S86i-10" value="Mom asks you to get some water for her" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="965" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-11" target="OF28jcQQUXVFAPz5S86i-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="955" y="820" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OF28jcQQUXVFAPz5S86i-11" target="OF28jcQQUXVFAPz5S86i-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-11" value="You say no." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OF28jcQQUXVFAPz5S86i-11" value="You say no and don&#39;t get her water." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-15" target="OF28jcQQUXVFAPz5S86i-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.012;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-15" target="adYS6wnZABfjnjKyc9KZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="868" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-15" value="Mom gets mad so you can&#39;t go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-17" target="2pD1o5CqtWCCzNHROZgY-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250.0000000000002" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-17" value="Mom is in a good mood. She lets you go." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-19" target="OF28jcQQUXVFAPz5S86i-29" edge="1">
+        <mxCell id="OF28jcQQUXVFAPz5S86i-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="980" as="targetPoint" />
+            <mxPoint x="400.03999999999996" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OF28jcQQUXVFAPz5S86i-19" target="OF28jcQQUXVFAPz5S86i-2" edge="1">
@@ -94,9 +96,6 @@
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-21" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OF28jcQQUXVFAPz5S86i-29" value="You don&#39;t go and you lose a lot of friends." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF28jcQQUXVFAPz5S86i-32" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="230" width="60" height="30" as="geometry" />
@@ -115,15 +114,17 @@
             <mxPoint x="705" y="530.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2pD1o5CqtWCCzNHROZgY-7" target="OF28jcQQUXVFAPz5S86i-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2pD1o5CqtWCCzNHROZgY-7" target="adYS6wnZABfjnjKyc9KZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2pD1o5CqtWCCzNHROZgY-7" value="Dad spots you, you get in trouble, and now you can&#39;t go to the sleepover." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="adYS6wnZABfjnjKyc9KZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-13" target="2pD1o5CqtWCCzNHROZgY-25">
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2pD1o5CqtWCCzNHROZgY-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945" y="920" as="targetPoint" />
+            <mxPoint x="1190" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="910" />
             </Array>
@@ -138,16 +139,11 @@
         <mxCell id="2pD1o5CqtWCCzNHROZgY-21" value="Go under the table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2pD1o5CqtWCCzNHROZgY-25" edge="1">
+        <mxCell id="2pD1o5CqtWCCzNHROZgY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1250" y="990" as="targetPoint" />
+            <mxPoint x="1250.0000000000002" y="940" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-25" value="You go to the sleepover." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2pD1o5CqtWCCzNHROZgY-30" value="You get make new friends and become very popular in school." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="adYS6wnZABfjnjKyc9KZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="adYS6wnZABfjnjKyc9KZ-1" target="2pD1o5CqtWCCzNHROZgY-20">
           <mxGeometry relative="1" as="geometry" />
@@ -174,6 +170,18 @@
         </mxCell>
         <mxCell id="adYS6wnZABfjnjKyc9KZ-14" value="Dad goes to kitchen to get water and is about to spot you." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-19" value="You get an invite to a sleepover." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-20" value="You don&#39;t go, you become the loser, and you lose all of your friends." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-22" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;You get make new friends and become very popular in school.&lt;/span&gt;&#xa;&#xa;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="990" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adYS6wnZABfjnjKyc9KZ-24" value="You go to the sleepover and you have lots of fun." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
